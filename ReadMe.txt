@@ -1,0 +1,1 @@
+For module 2 challenge, I did multiple study groups with members from the class including Hannah, Matt, Aubrey, Rebecca, and Nick. Matt helped me debug vs looping. I also used a tutor that helped me better understand VBA.
